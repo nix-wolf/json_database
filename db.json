@@ -25,5 +25,40 @@
 	    "title":"no",
 	    "body":"I suppose is serves a purpose...."
 	}	
+    ],
+    "characters": [
+	{
+	    "id":1,
+	    "name":"Reiam",
+	    "height":172,
+	    "gender":"male"
+	},
+	{
+	    "id":2,
+	    "name":"Wolf",
+	    "height":183,
+	    "gender":"male"
+	},
+	{
+	    "id":3,
+	    "name":"Nikka",
+	    "height":150,
+	    "gender":"female"
+	},
+	{
+	    "id":4,
+	    "name":"Ash",
+	    "height":165,
+	    "gender":"female"
+	},
+	{
+	    "id":5,
+	    "name":"Grim",
+	    "height":190,
+	    "gender":"male"
+	}
     ]
 }
+
+
+
