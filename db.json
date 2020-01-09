@@ -1,0 +1,30 @@
+{
+    "posts": [
+	{
+	    "id":1,
+	    "title":"hello",
+	    "body":"pointless nonsense",
+	},
+	{
+	    "id":2,
+	    "title":"two",
+	    "body":"but is it?",
+	},
+	{
+	    "id":3,
+	    "title":"nonsense",
+	    "body":"really?",
+	},
+	{
+	    "id":4,
+	    "title":"more",
+	    "body":"pointless nonsense?",
+	},
+	{
+	    "id":5,
+	    "title":"no",
+	    "body":"I suppose is serves a purpose....",
+	},
+	
+    ],
+}
